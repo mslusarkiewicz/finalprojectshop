@@ -1,0 +1,29 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.box {
+    border: 1px solid red;
+}
+
+hr{
+    border: none;
+    height: 2px;
+    color: #333333;
+    background-color: #333333;
+}
+
+.container{
+   width: 90%;
+}
+
+h1{
+    text-align: center;
+    color: #0f0f0f;
+    margin-bottom: 15%;
+}
